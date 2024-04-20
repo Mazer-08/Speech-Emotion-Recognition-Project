@@ -3,7 +3,4 @@ keras
 librosa
 tensorflow
 soundfile
-base64
-pyaudio
-wave
-tempfile
+PyAudio
