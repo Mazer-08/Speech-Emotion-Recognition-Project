@@ -1,0 +1,10 @@
+streamlit
+keras
+librosa
+tensorflow
+soundfile
+os
+base64
+pyaudio
+wave
+tempfile
