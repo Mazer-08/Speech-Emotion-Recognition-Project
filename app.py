@@ -10,6 +10,9 @@ import pyaudio
 import wave
 import tempfile
 
+# portaudio19-dev
+# python3-pyaudio
+
 
 # Load the trained LSTM model
 model = load_model('./model.h5')
