@@ -3,4 +3,5 @@ keras
 librosa
 tensorflow
 soundfile
+portaudio19-dev
 PyAudio
